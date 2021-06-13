@@ -1,0 +1,29 @@
+
+body {
+  background-color: #42ffef;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+.key:hover{
+  transform:rotate(-90deg);
+}
+.userexists{
+  text-decoration: none;
+}
+.userexists :hover{
+  text-decoration:none;
+  color: black;
+}
+.register{
+  margin-top: 5px;
+}
